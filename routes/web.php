@@ -14,6 +14,7 @@ use App\Http\Controllers\ItemController;
 | contains the "web" middleware group. Now create something great!
 |
 */
+// tesetasd <table></table>
 
 Route::get('/', function () {
     return view('welcome');
